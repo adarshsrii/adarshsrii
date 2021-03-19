@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adarshsrii
+- 👀 I’m interested in AI, Client Side Frameworks and Backend.
+- 🌱 I’m currently learning AI, Neural Networks.
+- 💞️ I’m looking to collaborate with startups creating their pathway.
+- 📫 How to reach me : you can reach via Facebook, Twitter or Instagram, username is "Adarshsrii" all along.
