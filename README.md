@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">Chief Technology Officer at Linguiyo | Senior Full Stack Software Engineer (Fastify/ExpressJS/NuxtJS) | CEO of SynchSoftHQ</h3>
+<h3 align="center">Chief Technology Officer at Re/Max Millennium | Senior Full Stack Software Engineer (Fastify/ExpressJS/NuxtJS) | CEO of SynchSoftHQ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsrii&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsrii" /> </p>
 
