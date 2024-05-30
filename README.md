@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">Chief Technology Officer at Re/Max Millennium | Senior Full Stack Software Engineer (Fastify/ExpressJS/NuxtJS) | CEO of SynchSoft</h3>
+<h3 align="center"> Senior Full Stack Software Engineer (Fastify/ExpressJS/NuxtJS) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsrii&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsrii" /> </p>
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [v2 of Fastify and making a open prisma based boilerplate](v1- [https://github.com/adarshsrii/fastify-playground] v2-[https://github.com/adarshsrii/v2-fastify-playground])
   <br/>
 
-- 🌱 My Primary day is enduged **Fastify, Laravel, Nuxt, Flutter and never ending Software Architecture Planning.**<br/>
+- 🌱 My Primary day is enduged **Fastify, Laravel, Nuxt, Flutter and never-ending Software Architecture Planning.**<br/>
 
 - 👀 I’m interested in AI, Client Side Frameworks and Backend.
 
