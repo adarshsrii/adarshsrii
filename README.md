@@ -1,21 +1,93 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center"> Senior Full Stack Software Engineer (Fastify/ExpressJS/NuxtJS) </h3>
+# 👋 Hi, I’m Adarsh Srivastava
 
-- 🔭 I’m currently working on [v2 of Fastify and making a open prisma based boilerplate](v1- [https://github.com/adarshsrii/fastify-playground] v2-[https://github.com/adarshsrii/v2-fastify-playground])
-  <br/>
+### Founder • Full-Stack Engineer • Scalable Product Architect
 
-- 🌱 My Primary day is enduged **Fastify, Laravel, Nuxt, Flutter and never-ending Software Architecture Planning.**<br/>
+I build **production-grade digital products** that scale — from zero to millions of users — with a strong focus on **performance, clarity, and long-term maintainability**.
 
-- 👀 I’m interested in AI, Client Side Frameworks and Backend.
+I’m currently working on [v2 of Fastify and making a open prisma based boilerplate](v1- [https://github.com/adarshsrii/fastify-playground] v2-[https://github.com/adarshsrii/v2-fastify-playground])
 
-- 👯 I’m looking to collaborate on **AI/ML projects, SAAS apps, Mobile Apps**<br/>
+Over the last decade, I’ve worked across **mobile apps, web platforms, AI-powered systems, and cloud infrastructure**, helping startups and businesses turn ideas into reliable, revenue-generating products.
 
-- 💬 Ask me about **Vue, Nodejs, PHP, Mobile Languages and How Tech Works behind the scenes.**<br/>
+---
 
-- ⚡ Fun fact <br/> **I'm never too tired to talk about tech.** <br/> **I'm more active on bitbucket than on github [sigh!].**<br/>
+## 🚀 What I Do Best
 
+- **End-to-end product engineering**
+  - From architecture → development → deployment → scale
+- **High-performance mobile apps**
+  - React Native, Expo, iOS & Android optimization
+- **Scalable backend systems**
+  - Node.js, Fastify, Prisma, MySQL/Postgres
+- **Cloud & DevOps**
+  - AWS, scalable APIs, storage, monitoring, CI/CD
+- **AI-driven solutions**
+  - LLM integrations, automation, intelligent workflows
+- **Product thinking**
+  - MVP definition, growth-ready architecture, technical debt prevention
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  https://www.upwork.com/freelancers/~0198c5518678148abd
-</p>
+---
+
+## 🧠 Engineering Philosophy
+
+- Build for **scale from day one**
+- Prefer **clarity over cleverness**
+- Avoid tech debt — design systems that grow
+- Performance and UX are **non-negotiable**
+- Communication is as important as code
+
+---
+
+## 🏗️ Things I’ve Built / Worked On
+
+- Consumer mobile apps scaled to **millions of users**
+- B2B platforms with real-time data & analytics
+- AI-powered automation tools
+- High-traffic web platforms
+- Custom CRMs, ERPs, and internal tools
+- Map-based discovery systems & real-time chat apps
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React Native, Expo
+- React, Next.js
+- TypeScript
+
+**Backend**
+- Node.js, Fastify
+- Prisma ORM
+- REST & WebSockets
+
+**Databases**
+- MySQL, PostgreSQL
+- Redis
+- Vector databases (Pinecone / Qdrant)
+
+**Cloud & Infra**
+- AWS (EC2, S3, RDS, CloudFront)
+- CI/CD pipelines
+- Monitoring & performance tuning
+
+---
+
+## 📈 How I Add Value
+
+- Turn vague ideas into **clear execution plans**
+- Build MVPs that don’t need rewrites later
+- Improve existing systems without breaking production
+- Think like a **founder**, not just a developer
+
+---
+
+## 🤝 Connect With Me
+
+If you’re building something serious and want an engineer who understands **scale, speed, and business impact**:
+
+👉 **Upwork Profile**  
+https://www.upwork.com/freelancers/~0198c5518678148abd
+
+---
+
+> “There are no tight deadlines — only clear priorities and focused execution.”
