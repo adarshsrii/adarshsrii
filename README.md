@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **Vue, Nodejs, PHP, Mobile Languages and How Tech Works behind the scenes.**<br/>
 
-- 📫 How to reach me **adarsh@synchsoft.com**<br/>
-
 - ⚡ Fun fact <br/> **I'm never too tired to talk about tech.** <br/> **I'm more active on bitbucket than on github [sigh!].**<br/>
 
 
