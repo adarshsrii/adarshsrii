@@ -23,10 +23,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adarshsrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshsrii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarshsrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshsrii" height="30" width="40" /></a>
-<a href="https://fb.com/adarshsrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarshsrii" height="30" width="40" /></a>
-<a href="https://instagram.com/adarshsrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshsrii" height="30" width="40" /></a>
-<a href="https://medium.com/@adarshsrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adarshsrivastava" height="30" width="40" /></a>
 </p>
 <p><img align="center" class="bigscreen rounded mx-auto d-block" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsrii&" alt="adarshsrii" /></p>
